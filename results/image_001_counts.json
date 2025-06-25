@@ -1,0 +1,11 @@
+{
+  "image": "image_001.jpg",
+  "counts": {
+    "RBC": 17,
+    "WBC": 1,
+    "Platelets": 1,
+    "Total Cells": 19
+  },
+  "processing_time_ms": 129.21428680419922,
+  "timestamp": "2025-06-25 14:42:19"
+}
