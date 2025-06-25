@@ -8,7 +8,7 @@
 <!--<img src="https://user-images.githubusercontent.com/37298971/123714340-f8d70800-d82a-11eb-9742-042a5d9334a1.png" width="28">-->
 
 ## Updates from abishwa
-- I modified detect.py to include the blood cell count on the images. CSV and JSOR files should be generated in the ```Results``` folder
+- I modified detect.py to include the blood cell count on the images. CSV and JSON files should be generated in the ```Results``` folder
 - There should be an automatic summary file tallying all of the different blood cells and assessing all of the image data in the ```Data``` folder in one go.
 - Make sure to download opencv and C++ compiler for VS if using VScode https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
